@@ -1,0 +1,27 @@
+.second{
+  float: left;
+  width: 33.3%;
+  height: 100vh;
+  background-color: #FFFF00;
+
+}
+
+.first{
+  display: inline-block;
+  margin: 0 auto;
+  width: 33.3%;
+  height: 100vh;
+  background-color: #FF0000;
+}
+
+.done{
+  float: right;
+  width: 33.3%;
+  height: 100vh;
+  background-color: #008000;
+}
+
+.entry{
+  background: #fff;
+  border: 2px solid #999;
+}
